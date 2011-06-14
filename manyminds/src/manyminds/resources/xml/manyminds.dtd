@@ -1,0 +1,163 @@
+<!-- manyminds.dtd -->
+
+<!-- Agents -->
+<!ELEMENT agent-list (global-defs, agent*)>
+<!ELEMENT agent-ref EMPTY>
+<!ATTLIST agent-ref descriptor CDATA #REQUIRED>
+<!ELEMENT global-defs (global*)>
+
+<!-- Agent Description  -->
+<!ELEMENT agent (advice-definition*
+                belief-definition*
+                other-agent-belief-definition*
+                concept*
+                team-definition*
+                rule*
+                face-image*
+                rule-file+)>
+				
+<!ATTLIST agent name CDATA #REQUIRED
+                color CDATA #REQUIRED>
+
+<!ELEMENT face-image EMPTY>
+<!ATTLIST face-image
+            emotion CDATA #REQUIRED
+            state (respond | alert | interrupt | all) "all"
+            substate (active | inactive | gagged) #REQUIRED
+            path CDATA #REQUIRED>
+
+<!-- KnowledgeBase Stuff -->
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT index (#PCDATA)>
+<!ELEMENT detail (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
+<!ELEMENT reference (#PCDATA)>
+
+<!ELEMENT advice-definition (url index detail)>
+<!ELEMENT advice-give-action (reference)>
+<!ELEMENT belief-definition (index detail value?)>
+<!ELEMENT belief-assertion (reference)>
+<!ELEMENT belief-requirement (reference)>
+<!ELEMENT other-agent-belief-definition (index url detail value)>
+<!ELEMENT other-agent-belief-requirement (reference)>
+<!ELEMENT other-agent-belief-inquiry (reference)>
+<!ATTLIST other-agent-belief-inquiry type (once | when | subscribe) #REQUIRED>
+<!ELEMENT agent-name (index detail)>
+<!ELEMENT concept (index detail reference*)>
+<!ELEMENT team-action (reference)>
+<!ATTLIST team-action type (form | other) "form">
+<!ELEMENT team-definition (index detail reference*)>
+<!ELEMENT global-requirement (comparator metaglobal metaglobal) >
+<!ELEMENT global (url?, detail?, val?, index)>
+<!ATTLIST global type (RSA | CONTEXT | DOCUMENT) #REQUIRED
+                 group (true | false) #REQUIRED
+                 prototype CDATA "NO_PROTOTYPE">
+<!ELEMENT comparator EMPTY>
+<!ATTLIST comparator type (eq | gt | lt | ne) #REQUIRED>
+<!ELEMENT metaglobal (reference? detail?)>
+<!ATTLIST metaglobal type (value | timestamp | length | const) #REQUIRED
+                     side (left | right) #REQUIRED>
+<!ELEMENT remove-rater (reference)>
+<!ELEMENT add-rater (reference)>
+<!ELEMENT rater-definition (index reference url)>
+<!ATTLIST rater-definition shared (true | false) #REQUIRED>
+<!ELEMENT rule (advice-give-action*
+                belief-assertion*
+                global-requirement*
+                other-agent-belief-requirement*
+                other-agent-belief-inquiry*
+                team-action*
+                add-rater*
+                remove-rater*
+                index
+                detail)>
+<!ATTLIST rule type (normal | super) "normal">
+<!ELEMENT dataset (global*)>
+
+
+<!-- Data List -->
+<!ELEMENT dataset (global*)>
+<!ELEMENT document (#PCDATA)>
+<!ATTLIST document id CDATA #REQUIRED>
+
+
+
+<!-- Artifact Page -->
+<!ELEMENT page (top-section  middle-section  bottom-section)>
+<!ATTLIST page	long-name CDATA #REQUIRED
+                short-name CDATA #REQUIRED
+                unselected-color CDATA #REQUIRED
+                growable (true | false) "false">
+<!ELEMENT top-section (left-side right-side)>
+<!ATTLIST top-section	weight CDATA #REQUIRED
+                        color CDATA "66CCCCCC">
+<!ELEMENT middle-section (left-side right-side)>
+<!ATTLIST middle-section	weight CDATA #REQUIRED
+                            color CDATA "66CCCCCC">
+<!ELEMENT bottom-section (left-side right-side)>
+<!ATTLIST bottom-section	weight CDATA #REQUIRED
+                                color CDATA "66CCCCCC">
+<!ELEMENT left-side (label* raterbox*)>
+<!ELEMENT right-side (label* history* table* textarea* textfield*)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT tooltip (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT label (text tooltip url) >
+<!ATTLIST label weight CDATA "0.0" >
+<!ELEMENT raterbox (id)>
+<!ELEMENT table EMPTY>
+<!ATTLIST table	id CDATA #REQUIRED
+                weight CDATA #REQUIRED
+                height CDATA "1"
+                tooltip CDATA "--no-tt--">
+<!ELEMENT textarea EMPTY>
+<!ATTLIST textarea	id CDATA #REQUIRED
+                        weight CDATA #REQUIRED
+                        height CDATA "1"
+                        index CDATA "n"
+                        tooltip CDATA "--no-tt--">
+<!ELEMENT history (history-watch*)>
+<!ATTLIST history	id CDATA #REQUIRED
+                        weight CDATA #REQUIRED
+                        height CDATA "1"
+                        index CDATA "n"
+                        tooltip CDATA "--no-tt--">
+<!ELEMENT history-watch EMPTY>
+<!ATTLIST history	id CDATA #REQUIRED
+                        tooltip CDATA #REQUIRED>
+<!ELEMENT textfield EMPTY>
+<!ATTLIST textfield	id CDATA #REQUIRED
+                        shared (true | false) #REQUIRED
+                        tooltip CDATA "--no-tt--">
+
+
+<!-- rater-data -->
+<!ELEMENT rater (rater-title  rater-detail  rating-summaries  rating-details)>
+<!ATTLIST rater id CDATA #REQUIRED>
+<!ELEMENT rater-title (#PCDATA)>
+<!ELEMENT rater-detail (#PCDATA)>
+<!ELEMENT rating-summaries (summary+)>
+<!ELEMENT rating-details (detail+)>
+<!ELEMENT summary (#PCDATA)>
+<!ELEMENT detail (#PCDATA)>
+<!ATTLIST detail plurality (true | false) "false">
+
+<!-- History project -->
+<!ELEMENT history-project (resource* episode*)>
+<!ELEMENT resource (#PCDATA)>
+<!ATTLIST resource type CDATA "unknown">
+<!ELEMENT episode (summary?)>
+<!ATTLIST episode name CDATA "unknown">
+
+<!-- report-format -->
+<!ELEMENT report (document* text* image* table* document-block*)>
+<!ATTLIST report folder CDATA #REQUIRED>
+<!ELEMENT document EMPTY>
+<!ATTLIST document name CDATA #REQUIRED>
+<!ELEMENT image EMPTY>
+<!ATTLIST image name CDATA #REQUIRED
+                source CDATA #REQUIRED>
+<!ELEMENT table EMPTY>
+<!ATTLIST table name CDATA #REQUIRED>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT document-block (document* text*)>

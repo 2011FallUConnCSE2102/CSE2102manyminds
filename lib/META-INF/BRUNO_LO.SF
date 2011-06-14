@@ -1,0 +1,1541 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: rMb14K4iXYdjJV+bKGa4SKcfZCI=
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: bydzHrsFH/luW+7ncRrdEyxakaw=
+
+Name: com/lowagie/text/pdf/codec/GifImage$GifFrame.class
+SHA1-Digest: j4Dc8pp3U8zmWArseRVTw7lh9WE=
+
+Name: com/lowagie/text/RomanList.class
+SHA1-Digest: 1BRvcGUafgEx5SuyH0iB/gbKg7M=
+
+Name: com/lowagie/text/pdf/PdfNumberTree.class
+SHA1-Digest: HDTmD3r2OzohUJO9KvRD1YxwoWA=
+
+Name: com/lowagie/text/pdf/PdfWriter$PdfTrailer.class
+SHA1-Digest: g8l6Zj636KyXcT3dSZXEODaniKw=
+
+Name: com/lowagie/text/ElementListener.class
+SHA1-Digest: /925rcnyuziou4vzzhuaXeKZznM=
+
+Name: com/lowagie/text/pdf/PRAcroForm.class
+SHA1-Digest: MwNT3HEu8tX323BzLtGtSfVR45g=
+
+Name: com/lowagie/text/html/HtmlTags.class
+SHA1-Digest: y1uw4iFE5iiQOap//xlmXxD7iYI=
+
+Name: com/lowagie/text/pdf/PdfTable.class
+SHA1-Digest: TBaPr22S9KN2QH4gjsiWCaAEPCA=
+
+Name: com/lowagie/text/pdf/PdfPCell.class
+SHA1-Digest: LTQP5y1Bjy+4jYt32QkIzmhs6Kw=
+
+Name: com/lowagie/text/pdf/PdfBorderDictionary.class
+SHA1-Digest: vNSCs6+ilKQvIvd1yMeKm5bZNQs=
+
+Name: com/lowagie/text/pdf/Type3Font.class
+SHA1-Digest: 2i6JDa1Yut3VF/U729ABwBFSYjs=
+
+Name: com/lowagie/text/rtf/table/RtfBorder.class
+SHA1-Digest: mOQKse7AroejPsKFdPx+Db1ZMJA=
+
+Name: com/lowagie/text/rtf/AbstractRtfField.class
+SHA1-Digest: 9o+AqzGZtx+eDnWw6CTpe9YXJUY=
+
+Name: com/lowagie/text/pdf/IntHashtable$Entry.class
+SHA1-Digest: TjY18uiK7hAwQDkYwG+oMztGkCI=
+
+Name: com/lowagie/text/pdf/PdfPages.class
+SHA1-Digest: cNduABhbxvEDAlR1Dpg4DYtvuxY=
+
+Name: com/lowagie/text/Chapter.class
+SHA1-Digest: 4is5b+43lYHPJhYTgxqm2YeRhlQ=
+
+Name: com/lowagie/text/pdf/PdfSigGenericPKCS$PPKLite.class
+SHA1-Digest: qy704gDgKOHaQB8aWAbkSeuANoU=
+
+Name: com/lowagie/text/pdf/crypto/IVGenerator.class
+SHA1-Digest: KqRt7ZxIA7StaYehzONLgihhFTM=
+
+Name: com/lowagie/text/html/HtmlEncoder.class
+SHA1-Digest: /w/OHKApzXXS66dKGbI8dum4/vk=
+
+Name: com/lowagie/text/pdf/PdfSignatureAppearance.class
+SHA1-Digest: aCvUEpU3CO6s8c0vfCmdsuIz+uo=
+
+Name: com/lowagie/text/pdf/PdfContentByte$GraphicState.class
+SHA1-Digest: 6A7wRnX81CPt/lz/5Lcux+ywqLo=
+
+Name: com/lowagie/text/rtf/RtfMapper.class
+SHA1-Digest: WJGxIh+kNU5GFLengTxo64Hu/nU=
+
+Name: com/lowagie/text/xml/simpleparser/SimpleXMLDocHandlerComment.cla
+ ss
+SHA1-Digest: zooVMIe20aVX8+KCY8cxKYKxRU0=
+
+Name: com/lowagie/text/pdf/PdfPTable.class
+SHA1-Digest: OhcjUycnrBmgnEOArmH1tgP1mRg=
+
+Name: com/lowagie/text/pdf/TrueTypeFont.class
+SHA1-Digest: LtGMJSodau7DOUKL85vKU+uki4I=
+
+Name: com/lowagie/text/SimpleCell.class
+SHA1-Digest: uSgBjU2idpmABXsXY079H0V4h/M=
+
+Name: com/lowagie/text/pdf/PRStream.class
+SHA1-Digest: PuFiU8CmrG6xmeCwEbCkrtOF9Rg=
+
+Name: com/lowagie/text/html/SAXmyHtmlHandler.class
+SHA1-Digest: S/d7/F6JFs2v6rGo8HfE0L+4ne4=
+
+Name: com/lowagie/text/pdf/internal/PolylineShape.class
+SHA1-Digest: rOcRJ4OjwgSluFz3W8DAIrUNfpE=
+
+Name: com/lowagie/text/rtf/text/RtfChunk.class
+SHA1-Digest: xjFTf4DpskrAlN6REs1IVR6+1aU=
+
+Name: com/lowagie/text/xml/xmp/XmpMMSchema.class
+SHA1-Digest: PQLAeQCjPgZRFMtOjrBNzdoCqBY=
+
+Name: com/lowagie/text/pdf/PdfNumber.class
+SHA1-Digest: gkErXKmuwYgEpjLKjEbGKYD6dwk=
+
+Name: com/lowagie/text/pdf/PdfEncodings$SymbolTTConversion.class
+SHA1-Digest: W98iT/vq75813gV+nwSvjz7DD+Y=
+
+Name: com/lowagie/text/MarkedObject.class
+SHA1-Digest: h0dgwEsKh6S6yRmJi4TcxB3n6VU=
+
+Name: com/lowagie/text/pdf/ArabicLigaturizer$charstruct.class
+SHA1-Digest: B5swFw5Gz8Rt+HyUGN9jKW/EXB8=
+
+Name: com/lowagie/text/html/simpleparser/ALink.class
+SHA1-Digest: irKLqc23pyO5gbvpfzdbMzR5vd4=
+
+Name: com/lowagie/text/Table.class
+SHA1-Digest: U13USIfbjiIGCGlZQZ6AESAIvq4=
+
+Name: com/lowagie/text/pdf/fonts/ZapfDingbats.afm
+SHA1-Digest: m3C9ilP1+2V1KZRaakr+KiPXJH8=
+
+Name: com/lowagie/tools/Executable.class
+SHA1-Digest: qM8TXW52DixTSfB6qCbWHMsiAVU=
+
+Name: com/lowagie/tools/encrypt_pdf.class
+SHA1-Digest: HXRliDx2XNGMRFaSjUHiwFPhEpY=
+
+Name: com/lowagie/text/pdf/CFFFont$SubrMarkerItem.class
+SHA1-Digest: fkKIjuH5R0S+NijdtAnptRCt3js=
+
+Name: com/lowagie/text/rtf/document/output/RtfDataCache.class
+SHA1-Digest: /ryWQ2hnKw4x3Ab4NTlo6Jc7ufo=
+
+Name: com/lowagie/text/rtf/text/RtfSection.class
+SHA1-Digest: egHiN2blUOzWmH+ZyQmQ/eQ49CA=
+
+Name: com/lowagie/text/pdf/events/IndexEvents.class
+SHA1-Digest: LLE2daS5OCxlCKlaLi+ELbfCgFo=
+
+Name: com/lowagie/text/pdf/IntHashtable$IntHashtableIterator.class
+SHA1-Digest: GJXZVMwML6XTEFCbhN9Hma8v2SA=
+
+Name: com/lowagie/text/pdf/PdfPRow.class
+SHA1-Digest: 9ypuqTMHQZkgg89koKeaJPkrWZA=
+
+Name: com/lowagie/text/rtf/list/RtfListItem.class
+SHA1-Digest: 4W7ILCslWi8WpQsuF/z2/Ve6Css=
+
+Name: com/lowagie/text/pdf/crypto/ARCFOUREncryption.class
+SHA1-Digest: osmGDPSRpmbLzTw/n1JYyT5lWLE=
+
+Name: com/lowagie/text/rtf/RtfField.class
+SHA1-Digest: 75wutAfv2w230LwHFyYFORtXwBE=
+
+Name: com/lowagie/tools/handout_pdf.class
+SHA1-Digest: Hi2h1l7osY4BVpvXkIUs9PiB23c=
+
+Name: com/lowagie/text/pdf/BarcodeEANSUPP.class
+SHA1-Digest: BSZQ2kGp01usroS7fCrt1xB0bFQ=
+
+Name: com/lowagie/text/pdf/XfaForm$AcroFieldsSearch.class
+SHA1-Digest: 7qewDDqFQJbvSuoxN+UGf4aF8jw=
+
+Name: com/lowagie/text/pdf/IntHashtable.class
+SHA1-Digest: OIdRxIgCE1zZMHpnyKi67/RFbOY=
+
+Name: com/lowagie/text/Element.class
+SHA1-Digest: 43qybkK2zj/7zds3iHWQ4M+2rEE=
+
+Name: com/lowagie/text/html/simpleparser/Img.class
+SHA1-Digest: alWsfxY8o+0pmilwyZOfWzd8g0o=
+
+Name: com/lowagie/text/pdf/PdfStamperImp$PageStamp.class
+SHA1-Digest: O7cqQkQ25LvcQXmKZexVTOV8u60=
+
+Name: com/lowagie/text/rtf/table/RtfBorderGroup.class
+SHA1-Digest: pkiuatrwanEz7rp0G1bzeSdZoa8=
+
+Name: com/lowagie/text/pdf/BadPasswordException.class
+SHA1-Digest: OL+5GCvkXU1U8FJyQt8KcVezLik=
+
+Name: com/lowagie/text/pdf/fonts/Times-Italic.afm
+SHA1-Digest: fITVVhqAN6P2wZi7VDO6PH2L+w4=
+
+Name: com/lowagie/text/pdf/BaseFont.class
+SHA1-Digest: WzZpk4ekJS4lYwrLrfJk20X3E5w=
+
+Name: com/lowagie/text/pdf/events/FieldPositioningEvents.class
+SHA1-Digest: o11kcJHtTOFT8jJL3g8TdJ9T+g4=
+
+Name: com/lowagie/text/pdf/PdfShading.class
+SHA1-Digest: wQFvGDELkwY5vFVmehYYdJwquiI=
+
+Name: com/lowagie/text/pdf/BarcodePDF417$SegmentList.class
+SHA1-Digest: mXkb8KVGwWnazs2nmmNnVURn04U=
+
+Name: com/lowagie/text/rtf/field/RtfTotalPageNumber.class
+SHA1-Digest: XbHxXCSubspGVOVP0qcptC39eS0=
+
+Name: com/lowagie/text/pdf/PdfFormField.class
+SHA1-Digest: wpAHumm6lranQlw+WOg658FNhFM=
+
+Name: com/lowagie/text/SpecialSymbol.class
+SHA1-Digest: XrWFo6C1Xxu8M4i+n9x1JayqntU=
+
+Name: com/lowagie/text/pdf/PdfEncryption.class
+SHA1-Digest: X8Hxl7EoiJHADOtllDepKFiRCDY=
+
+Name: com/lowagie/text/pdf/CJKFont.class
+SHA1-Digest: uK5pPhMD6XeIbjoMIfNM75fazJk=
+
+Name: com/lowagie/text/pdf/BarcodeCodabar.class
+SHA1-Digest: U7+eQq4m/OMMm36pIl3ZwUayiqg=
+
+Name: com/lowagie/text/pdf/CFFFont$IndexOffsetItem.class
+SHA1-Digest: Z0dL/4NjY0Qwfbq6rQdumdr7xRM=
+
+Name: com/lowagie/text/pdf/PdfStamper.class
+SHA1-Digest: vZaZLd88sYkRlgwITzldlIiuEJA=
+
+Name: com/lowagie/text/pdf/MappedRandomAccessFile$1.class
+SHA1-Digest: /F9L+w2FyZyISNnYWkV7TgP3zTI=
+
+Name: com/lowagie/text/pdf/CFFFont$OffsetItem.class
+SHA1-Digest: 0oxl0vg81AEOuQTYXPuHL4dhSJw=
+
+Name: com/lowagie/text/pdf/FdfWriter$Wrt.class
+SHA1-Digest: FK26iLr4PFpIissrYrkKmmP9/84=
+
+Name: com/lowagie/text/pdf/Barcode.class
+SHA1-Digest: 9oWb4TWqnLjJmk9965vHBdcGXbo=
+
+Name: com/lowagie/text/pdf/fonts/Courier-Oblique.afm
+SHA1-Digest: Vm2TCZTSsGp4D237Cbv6PoOOD88=
+
+Name: com/lowagie/text/Jpeg.class
+SHA1-Digest: tXPTyceHPl9CuTUlgIz0NqN6zmI=
+
+Name: com/lowagie/text/pdf/PdfOCProperties.class
+SHA1-Digest: 4Skm52v91JqaAIPZh/QdFDZXhWA=
+
+Name: com/lowagie/text/rtf/RtfElement.class
+SHA1-Digest: KE80MnIfQRi6qcF6UqEostBVM8E=
+
+Name: com/lowagie/text/pdf/fonts/Courier-Bold.afm
+SHA1-Digest: 9FSiZWeeVwbaIO3zIGetS6y3UUA=
+
+Name: com/lowagie/text/pdf/PdfDestination.class
+SHA1-Digest: uV6AY7skzR1q/Cl4GJ55BqxNzEo=
+
+Name: com/lowagie/text/xml/XmlParser.class
+SHA1-Digest: FOjYQfb1/JzpNh5XnMte9WBPVz4=
+
+Name: com/lowagie/text/pdf/PdfAnnotation.class
+SHA1-Digest: ihsxtnfgaQtxOb717xnPJjW1y6M=
+
+Name: com/lowagie/text/pdf/ByteBuffer.class
+SHA1-Digest: e+nKeIS0mXgX/Ih7gP1eAHIWAfQ=
+
+Name: com/lowagie/text/pdf/codec/TIFFConstants.class
+SHA1-Digest: wDsZN8ZJhC3WoF1NEl8Y6hgv2DA=
+
+Name: com/lowagie/text/pdf/FontDetails.class
+SHA1-Digest: 9kZAmlzwxruLjfIQoU4+45I3PK8=
+
+Name: com/lowagie/text/Document.class
+SHA1-Digest: 6qEHxmBQeGQDyCoRlLmWnDnStLI=
+
+Name: com/lowagie/text/pdf/Pfm2afm.class
+SHA1-Digest: J2c4LHlKkPsrAs86+XNj4fyNNQM=
+
+Name: com/lowagie/text/pdf/internal/PdfViewerPreferencesImp.class
+SHA1-Digest: 8/RR1AcnQy0DKyxiiWcU/2+Z2jc=
+
+Name: com/lowagie/text/pdf/collection/PdfCollectionField.class
+SHA1-Digest: 8lNDaPVtjk6snNyAFr3AXURr8dE=
+
+Name: com/lowagie/text/Utilities.class
+SHA1-Digest: 97rMulabf6bN18kkM7JbWz1i8qA=
+
+Name: com/lowagie/text/pdf/PdfTransparencyGroup.class
+SHA1-Digest: wy5+pXpWe0fMS0QG0WrCEi20kMQ=
+
+Name: com/lowagie/text/xml/simpleparser/SimpleXMLParser.class
+SHA1-Digest: 8xOSfgslQDaNmDsgIzVPUJUJNAE=
+
+Name: com/lowagie/text/pdf/PdfImage.class
+SHA1-Digest: YtaBoalGib9VQvsQQSjBMz55sok=
+
+Name: com/lowagie/text/pdf/PdfException.class
+SHA1-Digest: dFNhWC4FCoOcpharm3fCIfb3KOo=
+
+Name: com/lowagie/text/pdf/PdfPageElement.class
+SHA1-Digest: rWfRYZKSEcKiqemhhlv6qZ3+rU0=
+
+Name: com/lowagie/text/Section.class
+SHA1-Digest: ho6tSL9KsDDCWuBn9LQl1zI1BQI=
+
+Name: com/lowagie/text/ExceptionConverter.class
+SHA1-Digest: ebNx7HMBwVdS5UwL2b7cXG8JGP4=
+
+Name: com/lowagie/text/pdf/AcroFields.class
+SHA1-Digest: S0dFLxoI/dkHPjCRIL7fpaGrQAg=
+
+Name: com/lowagie/text/rtf/RtfRow.class
+SHA1-Digest: XtYyGdnhrB8LTkgXMfsokoj0Rec=
+
+Name: com/lowagie/text/factories/RomanNumberFactory$RomanDigit.class
+SHA1-Digest: B4rhvN/5JQSKUKdj+DhkafEL6dY=
+
+Name: com/lowagie/text/pdf/hyphenation/PatternConsumer.class
+SHA1-Digest: y1k8zgH0qyMIDSdUKMvC5Eezze4=
+
+Name: com/lowagie/text/pdf/PdfPKCS7$X509NameTokenizer.class
+SHA1-Digest: lrf0trEluCzLKwWUTBqWHaUYuH0=
+
+Name: com/lowagie/text/pdf/PdfOCG.class
+SHA1-Digest: HRn7x7WLDlMoJQyGBy/+qrNjnyw=
+
+Name: com/lowagie/text/ElementTags.class
+SHA1-Digest: CFnEKZczcGMSOSbNiQxEUoIQWrU=
+
+Name: com/lowagie/text/pdf/SimpleNamedDestination.class
+SHA1-Digest: a0xOGELn9xG5+dtrgjlnxli70Wo=
+
+Name: com/lowagie/text/pdf/PdfIndirectReference.class
+SHA1-Digest: MEuvAz4T6zOptXobG//a2KtWCA0=
+
+Name: com/lowagie/text/rtf/RtfExtendedElement.class
+SHA1-Digest: R1oNnt35+WA7U78WszfQAq/bxJk=
+
+Name: com/lowagie/text/HeaderFooter.class
+SHA1-Digest: o9TUsV8YMFv0kVevE61hCEeYPdA=
+
+Name: com/lowagie/text/pdf/DefaultFontMapper$BaseFontParameters.class
+SHA1-Digest: spXFPOEYM0jzvYMaZo4iIaUlZ2Q=
+
+Name: com/lowagie/text/rtf/style/RtfFont.class
+SHA1-Digest: B37Ta2u4n8iLwFiZImRXOOIzrEs=
+
+Name: com/lowagie/text/pdf/PdfObject.class
+SHA1-Digest: PNySv+FejSfn1BB4GNtpNcxgwy0=
+
+Name: com/lowagie/text/pdf/codec/TIFFFaxDecoder.class
+SHA1-Digest: JMkkxD+Dh2Wnkx9w9aPucmzY69g=
+
+Name: com/lowagie/text/pdf/PdfCopy$StampContent.class
+SHA1-Digest: mdp3csRLNswsTh2EN/sm809Zch8=
+
+Name: com/lowagie/text/pdf/collection/PdfCollectionSchema.class
+SHA1-Digest: kkmzFhFDy38HmLCwy+YUvVE8T8c=
+
+Name: com/lowagie/text/xml/simpleparser/IanaEncodings.class
+SHA1-Digest: u8AZxqvr0OTF4WcSrbkyLrggTmc=
+
+Name: com/lowagie/text/pdf/PdfGraphics2D$1.class
+SHA1-Digest: 0lBQDDI29y7sB+sA060BmapTT/4=
+
+Name: com/lowagie/text/pdf/BaseFont$StreamFont.class
+SHA1-Digest: a1VRNIUYGyI+ZVsA5Gij5hUJLL0=
+
+Name: com/lowagie/text/rtf/document/output/RtfDiskCache.class
+SHA1-Digest: IqlCvfeDFIYzK4TxbOpNpfGWFeY=
+
+Name: com/lowagie/text/pdf/codec/PngImage$NewByteArrayOutputStream.cla
+ ss
+SHA1-Digest: lXJVfDrPnxODoF5BX++szMuPhkE=
+
+Name: com/lowagie/text/pdf/PdfReader$PageRefs.class
+SHA1-Digest: URgu+xvB4WyJttbO8e/pKf9yCcU=
+
+Name: com/lowagie/text/lgpl.txt
+SHA1-Digest: tiThC+kGR480CTB4LLwmh4d/hL4=
+
+Name: com/lowagie/text/rtf/style/RtfStylesheetList.class
+SHA1-Digest: MjhPfyZPZ6qjJcEce/rKomlLI2A=
+
+Name: com/lowagie/text/pdf/internal/PdfVersionImp.class
+SHA1-Digest: srRmfc/5gAf5K3rdA1bkRvnKgB8=
+
+Name: com/lowagie/text/pdf/codec/TiffImage.class
+SHA1-Digest: +d+MqDvMjb8HKB5Gpogq8vVrT1s=
+
+Name: com/lowagie/text/pdf/CFFFontSubset.class
+SHA1-Digest: +y3GhqRw8yq/S3L8i0hlWT18QSw=
+
+Name: com/lowagie/text/pdf/PdfCopyFields.class
+SHA1-Digest: bk7kzAmyUpMVoztUQPo661qolS8=
+
+Name: com/lowagie/text/rtf/field/RtfField.class
+SHA1-Digest: P7yrbi7YxpjbDIs3mhCGX3jxQp4=
+
+Name: com/lowagie/text/pdf/PdfShadingPattern.class
+SHA1-Digest: JP/hbKvgdFdqFdHeIbZ1Lart5H8=
+
+Name: com/lowagie/text/Anchor.class
+SHA1-Digest: p+SAQgh5ccUg4TxT6+dCSYUw/7Y=
+
+Name: com/lowagie/text/rtf/graphic/RtfShapeProperty.class
+SHA1-Digest: sNwXLD0vJLR5hulGkzqwkwSU5kM=
+
+Name: com/lowagie/text/pdf/PdfRectangle.class
+SHA1-Digest: w4HgLBPqxg3sjQcDd6LkyZMa2XQ=
+
+Name: com/lowagie/text/pdf/PdfBorderArray.class
+SHA1-Digest: lzgMoIqABBpHUPv5MCSSND3McKY=
+
+Name: com/lowagie/text/pdf/BarcodePDF417$Segment.class
+SHA1-Digest: Qvl/NdrAao3OZd8UPTcYUfuB4kI=
+
+Name: com/lowagie/text/rtf/text/RtfTabGroup.class
+SHA1-Digest: +6uQo+KrLkSS8R7iRWI6sDQGW8k=
+
+Name: com/lowagie/text/pdf/fonts/Helvetica-BoldOblique.afm
+SHA1-Digest: YBXss14ywGS6zeOPP/OKS4g7Lkk=
+
+Name: com/lowagie/text/xml/xmp/PdfA1Schema.class
+SHA1-Digest: 9McHEJnyfdt+ZC4oPAxLSKt+wYY=
+
+Name: com/lowagie/text/html/HtmlParser.class
+SHA1-Digest: G3/SnLMWRt7xfU6eZ2xF5FBVB/U=
+
+Name: com/lowagie/text/html/simpleparser/StyleSheet.class
+SHA1-Digest: ZTG0594DdTHfcy/eZRoVgahCz2g=
+
+Name: com/lowagie/text/pdf/fonts/Helvetica-Oblique.afm
+SHA1-Digest: 5SVdulTzMcW84R4xwHdMndujylk=
+
+Name: com/lowagie/text/rtf/RtfWriter2.class
+SHA1-Digest: Sp8ROVAu51M6lmUiEwKRvUQlXNM=
+
+Name: com/lowagie/text/Header.class
+SHA1-Digest: jSR8Yp/TUDGGumPuUGYPGtiYZKc=
+
+Name: com/lowagie/text/pdf/hyphenation/HyphenationException.class
+SHA1-Digest: apHzinqkrhv8XnCpenwaO2kEres=
+
+Name: com/lowagie/text/pdf/AcroFields$RevisionStream.class
+SHA1-Digest: tdFPySCMPEkOI8jfQSAGDyVsxic=
+
+Name: com/lowagie/text/Phrase.class
+SHA1-Digest: D2MtxqUPz4M3tw2bJRK6Y9ERzG8=
+
+Name: com/lowagie/text/pdf/PdfWriter.class
+SHA1-Digest: r4UKe3ggErIKugKRjsWWEVlpySg=
+
+Name: com/lowagie/text/pdf/hyphenation/Hyphenator.class
+SHA1-Digest: Tw9XH6FBiGpi9H2xJoLwPY9lJ5c=
+
+Name: com/lowagie/text/pdf/fonts/mustRead.html
+SHA1-Digest: F4tyfFDhky8EvERQ1ZjYCaCTu2g=
+
+Name: com/lowagie/text/pdf/PdfDictionary.class
+SHA1-Digest: qAh1jVnTq967skf53GeVFLpGlkg=
+
+Name: com/lowagie/text/rtf/headerfooter/RtfHeaderFooter.class
+SHA1-Digest: 3azYGST1saB54KH04lvyrFr/CnM=
+
+Name: com/lowagie/text/pdf/ShadingColor.class
+SHA1-Digest: tA9GUkNtQ90ehUQGT/jkuwV4qhQ=
+
+Name: com/lowagie/text/pdf/PdfOutline.class
+SHA1-Digest: xEx407GbD1h+iWA5j300QDmunLM=
+
+Name: com/lowagie/text/rtf/graphic/RtfImage.class
+SHA1-Digest: am2o5pfA2oVXOwjHfoqQ71s8xVA=
+
+Name: com/lowagie/text/pdf/XfaForm$InverseStore.class
+SHA1-Digest: mhZnglrQQtXQuwd1aOWMl1uuqBU=
+
+Name: com/lowagie/text/html/simpleparser/IncCell.class
+SHA1-Digest: 07baIwK9EySePoYQr9JBn7+O9lU=
+
+Name: com/lowagie/text/DocListener.class
+SHA1-Digest: bpfV632FJ3zNxGZq2lEVz8Vm8l8=
+
+Name: com/lowagie/text/pdf/PRAcroForm$FieldInformation.class
+SHA1-Digest: qU9V+aJob/clvlsYvlFWP4yUpSA=
+
+Name: com/lowagie/text/pdf/fonts/Courier-BoldOblique.afm
+SHA1-Digest: zQrb7XLgrJqP5VdP9UT09UV/j9U=
+
+Name: com/lowagie/text/pdf/PdfPage.class
+SHA1-Digest: iP/5+3xW7ez1ndWlo2Aodr41xgA=
+
+Name: com/lowagie/text/pdf/codec/wmf/InputMeta.class
+SHA1-Digest: F2AL/Clh2i29fRODDIpW35hCGDk=
+
+Name: com/lowagie/text/pdf/FdfReader.class
+SHA1-Digest: 5YIpFrimLt7IQnNV/8j++2OdVOo=
+
+Name: com/lowagie/text/pdf/XfdfReader.class
+SHA1-Digest: SrGnhS5ILBhpwB+ei/gIv60r8VM=
+
+Name: com/lowagie/text/html/simpleparser/ChainedProperties.class
+SHA1-Digest: GkPnret8jJrwc4QCSePyqFejkoM=
+
+Name: com/lowagie/text/rtf/direct/RtfTokeniser.class
+SHA1-Digest: 3z7zj2gYUELKDyQ9vvhjcEi1ivQ=
+
+Name: com/lowagie/text/pdf/PdfImportedPage.class
+SHA1-Digest: vzGMwBRv+qnoN2nTQpIUSavu1H0=
+
+Name: com/lowagie/text/pdf/interfaces/PdfPageActions.class
+SHA1-Digest: fdsjompxca5Q0mvGYP0a4HU/EuA=
+
+Name: com/lowagie/text/pdf/codec/GifImage.class
+SHA1-Digest: jHn8c2j31tH4YnCWVbom0b2cmgs=
+
+Name: com/lowagie/text/pdf/PdfReaderInstance.class
+SHA1-Digest: 7VdrK++gNi9z8a3QB6hsKUTSAJQ=
+
+Name: com/lowagie/text/pdf/BadPdfFormatException.class
+SHA1-Digest: geBhrgA2F83srtdjnbqAyA5pKkw=
+
+Name: com/lowagie/text/rtf/RtfTableCell.class
+SHA1-Digest: kRQeZSiDHWKaoyEFA0E5GdOZG4k=
+
+Name: com/lowagie/text/xml/xmp/XmpSchema.class
+SHA1-Digest: 8GDsVi2GyHrf8m8VKQwsE3Ru2rk=
+
+Name: com/lowagie/text/pdf/EnumerateTTC.class
+SHA1-Digest: caCJq6HsC5YkOxqA12g1yv5XdvU=
+
+Name: com/lowagie/text/pdf/PdfDocument.class
+SHA1-Digest: ILEJax6XK/axBggY7wLJroONbO8=
+
+Name: com/lowagie/text/pdf/BarcodePostnet.class
+SHA1-Digest: mrd9Bevat3WM6+xQlDZTqJSIIRM=
+
+Name: com/lowagie/text/xml/simpleparser/EntitiesToUnicode.class
+SHA1-Digest: gvmnTd7uE2/XmU5F/jtNtNspEak=
+
+Name: com/lowagie/text/pdf/PdfResources.class
+SHA1-Digest: 551AAe4gatntIoMgiin3WWAQPzs=
+
+Name: com/lowagie/text/TextElementArray.class
+SHA1-Digest: qwn8ZmDhHgliBgLI0HvcewoNmi0=
+
+Name: com/lowagie/text/MarkedSection.class
+SHA1-Digest: QyoVcxFSovuK8wzygGLfi5cDR9o=
+
+Name: com/lowagie/text/pdf/codec/TIFFLZWDecoder.class
+SHA1-Digest: 7iHayjn68Bdoskr2KM1NLICPMtA=
+
+Name: com/lowagie/text/rtf/document/RtfPageSetting.class
+SHA1-Digest: 71yobPmo4I5vdb4K1RzVbTRqHEY=
+
+Name: com/lowagie/text/pdf/BarcodeDatamatrix.class
+SHA1-Digest: z/AFE6VstxwW2UHbMfFX2+8NSRs=
+
+Name: com/lowagie/text/pdf/CFFFont$IndexMarkerItem.class
+SHA1-Digest: xMJAlErLqPO5FRY4t2xZgBFmcKk=
+
+Name: com/lowagie/text/pdf/LZWDecoder.class
+SHA1-Digest: ATtowJWxHlMmffC/Gbd1wiTewlQ=
+
+Name: com/lowagie/text/ImgWMF.class
+SHA1-Digest: oNbpKDq7022RdxXJErJssy79d20=
+
+Name: com/lowagie/text/pdf/Barcode39.class
+SHA1-Digest: m03VGnUmvxNlLvCi2bslF+G3Pg4=
+
+Name: com/lowagie/text/DocWriter.class
+SHA1-Digest: dwSTRujY6GZfPRaf6g46ULmBe9A=
+
+Name: com/lowagie/text/pdf/PdfSmartCopy.class
+SHA1-Digest: nGUZDw2yyPLV7YYqBKPaeSjcm8I=
+
+Name: com/lowagie/text/pdf/CFFFont$IndexBaseItem.class
+SHA1-Digest: bPxVeTtZ0DJuZUFZjKfZMOtJIYo=
+
+Name: com/lowagie/text/apache_license.txt
+SHA1-Digest: EgB8Oeiogn9Kg9bYOBDmPJJn4dU=
+
+Name: com/lowagie/text/pdf/TrueTypeFont$HorizontalHeader.class
+SHA1-Digest: CwkR14+mpEjWRc3nTN007Vwaw8s=
+
+Name: com/lowagie/text/pdf/PdfRendition.class
+SHA1-Digest: SBpUBvlAUYfQxV7yyoZhgXCqOJg=
+
+Name: com/lowagie/text/pdf/PdfSignatureAppearance$RangeStream.class
+SHA1-Digest: lS6Ljwy5SuKCidz0Zp3+I0myl5o=
+
+Name: com/lowagie/text/xml/xmp/PdfSchema.class
+SHA1-Digest: 425A9VAQtPYhVwtppsFNhDXeLyo=
+
+Name: com/lowagie/text/rtf/list/RtfList.class
+SHA1-Digest: 0aRraQvFnx6RTysKyYRCwHRUPDs=
+
+Name: com/lowagie/text/pdf/DefaultFontMapper.class
+SHA1-Digest: 8W2h/3XctL4JAbnnOvGe0pNoEiY=
+
+Name: com/lowagie/text/rtf/table/RtfRow.class
+SHA1-Digest: uNnvi05qvDcU+2czclMfQGJIH0k=
+
+Name: com/lowagie/text/rtf/text/RtfChapter.class
+SHA1-Digest: yUx5sn0rbobT+JA/M14kw68fCjs=
+
+Name: com/lowagie/text/pdf/MultiColumnText.class
+SHA1-Digest: DoYm2o1nryz4c6yJbivro043Abc=
+
+Name: com/lowagie/text/pdf/PdfCopy$PageStamp.class
+SHA1-Digest: FJFZmfDXNA1QkrVgARX3QJJwp44=
+
+Name: com/lowagie/text/pdf/PdfFileSpecification.class
+SHA1-Digest: sItj6QwPvpOp/Qg6ODBMKehQ9ME=
+
+Name: com/lowagie/text/html/HtmlWriter.class
+SHA1-Digest: HSJNkvVKPgWOs59fv6ay0ToXJp0=
+
+Name: com/lowagie/text/pdf/CFFFont.class
+SHA1-Digest: tRx15P90yhnOc9k57P1trINmLPs=
+
+Name: com/lowagie/text/pdf/PdfMediaClipData.class
+SHA1-Digest: sE2fkULXRmtZAK+YQ8EV+NVOIsk=
+
+Name: com/lowagie/text/rtf/field/RtfAnchor.class
+SHA1-Digest: v+GSb+ri4ZQft2QN8syWIFphZZQ=
+
+Name: com/lowagie/text/pdf/XfaForm$Xml2Som.class
+SHA1-Digest: XZJzjBQ/zkhHHMQtg81TPFm5PbA=
+
+Name: com/lowagie/text/pdf/RandomAccessFileOrArray.class
+SHA1-Digest: whWoJIomA7w4v/6OwGOTi8eRp7U=
+
+Name: com/lowagie/text/Font.class
+SHA1-Digest: nD/OSrFPKZ8XiEv+NzkBXeqvOYw=
+
+Name: com/lowagie/text/pdf/PdfDashPattern.class
+SHA1-Digest: x2+2FfeZcVGyMKUMLsmU9DimmZs=
+
+Name: com/lowagie/text/FontFactoryImp.class
+SHA1-Digest: doDYaPDiKswRnG94A1YRWcgO20E=
+
+Name: com/lowagie/text/pdf/PdfCopy$RefKey.class
+SHA1-Digest: VSxeMrOjjV7w9nWCpINrGslsBhw=
+
+Name: com/lowagie/text/rtf/document/output/RtfByteArrayBuffer.class
+SHA1-Digest: r9wlbcp84MvCGUJw9SxpChznwkY=
+
+Name: com/lowagie/text/pdf/ExtendedColor.class
+SHA1-Digest: xfYCS2jHqYIVgNYvoCPUApffb6s=
+
+Name: com/lowagie/text/factories/RomanAlphabetFactory.class
+SHA1-Digest: lOFv2jgRQJSxyPccv+guqZPOr2A=
+
+Name: com/lowagie/text/pdf/AsianFontMapper.class
+SHA1-Digest: mXCbUTf7rpeb7wpJLHJz9gBRlqY=
+
+Name: com/lowagie/text/pdf/hyphenation/SimplePatternParser.class
+SHA1-Digest: TM53EtjsB5mkeyNgB2z5s4G7a2s=
+
+Name: com/lowagie/text/pdf/fonts/glyphlist.txt
+SHA1-Digest: kzXNfvKcL5NwJ1U9viEOfIkiMpw=
+
+Name: com/lowagie/text/rtf/GenericRtfField.class
+SHA1-Digest: 2T12hwJyAHhWXw5gUpYtkPkpbjA=
+
+Name: com/lowagie/text/pdf/FontMapper.class
+SHA1-Digest: 9Tx3WM4sPPF2NlgR0D0+9NGGMRw=
+
+Name: com/lowagie/text/pdf/Type3Glyph.class
+SHA1-Digest: ge2E+j8dKqzA9YpqfKBE/ttaeao=
+
+Name: com/lowagie/text/pdf/PdfString.class
+SHA1-Digest: 3FMA5WndRbBHOqb3CaF2Zom9fGM=
+
+Name: com/lowagie/text/xml/xmp/LangAlt.class
+SHA1-Digest: lgNu97/nFKMDFYJwVmhZHhHG6V0=
+
+Name: com/lowagie/text/pdf/PatternColor.class
+SHA1-Digest: m9p7b7Fc3qE7uBAEhzTer2VTqRA=
+
+Name: com/lowagie/text/pdf/codec/BmpImage.class
+SHA1-Digest: hDvr3L5Syc/f4ixvqaRm5kMZufY=
+
+Name: com/lowagie/text/ZapfDingbatsList.class
+SHA1-Digest: kbGIQOTICqcK26OgIBxH/2nQHQI=
+
+Name: com/lowagie/text/pdf/PdfPSXObject.class
+SHA1-Digest: 7LjxHZ6yZd/OB2dCOAIr/G0f8f4=
+
+Name: com/lowagie/text/pdf/PdfSpotColor.class
+SHA1-Digest: FC8xv1HoGpzXL0hajCMpp2u8DXQ=
+
+Name: com/lowagie/text/pdf/PdfLine.class
+SHA1-Digest: CKbBgntt+0g6Z0OSFC1xnlWr+XU=
+
+Name: com/lowagie/text/pdf/PdfDocument$Indentation.class
+SHA1-Digest: 0Tyt6JhejZrjl2vx1amTjbpZ+lI=
+
+Name: com/lowagie/text/pdf/PdfCopy.class
+SHA1-Digest: RlxHFcAeP7gVKPgGd1WV28CeFnY=
+
+Name: com/lowagie/text/pdf/BaseField.class
+SHA1-Digest: OyFnfGzxtsH7KIaeKFptgTVwKBI=
+
+Name: com/lowagie/text/Row.class
+SHA1-Digest: YjqOKWjdBmbEjyh+clS4oSODL6Q=
+
+Name: com/lowagie/text/pdf/PushbuttonField.class
+SHA1-Digest: /flTpJlULXMZJ5MElacrO7d75tg=
+
+Name: com/lowagie/text/rtf/document/output/RtfMemoryCache.class
+SHA1-Digest: I0/S0OE0mSfrwFpuXU9A7HUZcN0=
+
+Name: com/lowagie/text/rtf/graphic/RtfShapePosition.class
+SHA1-Digest: ZMuIJfX66hC/QqZiV63csddZciA=
+
+Name: com/lowagie/text/pdf/TrueTypeFont$FontHeader.class
+SHA1-Digest: AeXOpXdHADd7pKgdhcGE3PXuYj0=
+
+Name: com/lowagie/text/pdf/PdfPTableEvent.class
+SHA1-Digest: YvCg0GtDGVmhlpb9E3rBPd21TIw=
+
+Name: com/lowagie/text/SimpleTable.class
+SHA1-Digest: 3/fsHSveCfpE/Ys2cBDyQL5kzXU=
+
+Name: com/lowagie/text/pdf/interfaces/PdfAnnotations.class
+SHA1-Digest: o/zpwjlK/RYZEmLEZaDq5I+kLhU=
+
+Name: com/lowagie/text/html/simpleparser/IncTable.class
+SHA1-Digest: b1VwKqlfmp2c19VRfTUq7zHwLj0=
+
+Name: com/lowagie/text/pdf/PdfGraphics2D.class
+SHA1-Digest: Y3MRGK2NWdcOAQ15JYhGk4E6cjM=
+
+Name: com/lowagie/text/pdf/PdfSignature.class
+SHA1-Digest: bXCUVfggJ5fkeSg5kroBYLPyC7k=
+
+Name: com/lowagie/text/pdf/CFFFont$DictNumberItem.class
+SHA1-Digest: IbgY73eSq+gsV1XtE0mRKlsxBGo=
+
+Name: com/lowagie/text/rtf/RtfTOCEntry.class
+SHA1-Digest: mIDL9jeMFceLMkiB9bUcOLyZ4LU=
+
+Name: com/lowagie/text/pdf/PdfEncodings$1.class
+SHA1-Digest: dvF9Hkv5y388mKtoAHvZg1BTY0I=
+
+Name: com/lowagie/text/PageSize.class
+SHA1-Digest: coWYxc5Fng35p8FLUP6VHy08A0U=
+
+Name: com/lowagie/text/pdf/PdfGraphics2D$fakeComponent.class
+SHA1-Digest: RCdgNZUYtO7+oQBSHDEUwZt51ZU=
+
+Name: com/lowagie/text/rtf/direct/RtfImportHeader.class
+SHA1-Digest: cVzRhsv9ob8ekjD30weWcORObGs=
+
+Name: com/lowagie/text/ImgCCITT.class
+SHA1-Digest: a46fvYKudvy8T9eEoM9B0XhfHoQ=
+
+Name: com/lowagie/text/pdf/PdfXConformanceException.class
+SHA1-Digest: Fym1lTC3E7NoYQSdS7baUuDr6Dw=
+
+Name: com/lowagie/text/pdf/codec/Base64.class
+SHA1-Digest: bRTL5egmUzkNVjr6+CjlDRZhAhU=
+
+Name: com/lowagie/text/pdf/internal/PdfAnnotationsImp.class
+SHA1-Digest: cCfz6dgqeTWWWqkJ9jNRE/db/ho=
+
+Name: com/lowagie/text/ChapterAutoNumber.class
+SHA1-Digest: WLm+sB4ra6lYp2dGhvk1UvSKskI=
+
+Name: com/lowagie/text/pdf/AcroFields$Item.class
+SHA1-Digest: GdnKAt9iMnvuNOt1MFhPHKhPGII=
+
+Name: com/lowagie/text/pdf/fonts/Times-BoldItalic.afm
+SHA1-Digest: duCCYl8ybDD4r7AA8GQA11NAV2A=
+
+Name: com/lowagie/text/pdf/PdfAcroForm.class
+SHA1-Digest: r/MoKaeipYsn1mDJN1XPF2Dr8F4=
+
+Name: com/lowagie/text/pdf/CFFFont$UInt32Item.class
+SHA1-Digest: 0kytbpDQUyPQURlX2cgjsZuqIFI=
+
+Name: com/lowagie/text/xml/xmp/XmpWriter.class
+SHA1-Digest: hVdyPSuJSL+QZVrWJHPB80w/0bo=
+
+Name: com/lowagie/text/FontFactory.class
+SHA1-Digest: U40Iv7HSGsR2TgyTNKLNsjCDiRI=
+
+Name: com/lowagie/text/pdf/CFFFont$Font.class
+SHA1-Digest: TiwjIpUEf7+ohtgOMWdcX94jQdY=
+
+Name: com/lowagie/text/rtf/field/RtfTableOfContents.class
+SHA1-Digest: 6Rq612pHImnPz9WNP5S3H353PMw=
+
+Name: com/lowagie/text/pdf/PdfEncodings$WingdingsConversion.class
+SHA1-Digest: dAmh5qIIEvVt4Y7LYOsB7ErKIso=
+
+Name: com/lowagie/text/rtf/style/RtfColorList.class
+SHA1-Digest: Zci1L2ZqYRe49mYXAlK7NAkxLRQ=
+
+Name: com/lowagie/text/rtf/RtfPageNumber.class
+SHA1-Digest: mqqiVnnALNfbX/yvd5BMWqB+AZo=
+
+Name: com/lowagie/text/MPL-1.1.txt
+SHA1-Digest: KvVr4HE2la4j6mY7wAKjpMGQpXA=
+
+Name: com/lowagie/text/pdf/TrueTypeFont$WindowsMetrics.class
+SHA1-Digest: B4mql+C6qVK/Q2WAiTx2sBjFGCI=
+
+Name: com/lowagie/text/pdf/fonts/Symbol.afm
+SHA1-Digest: o7uuelSwlJhcaXoQjoml2ny6ADI=
+
+Name: com/lowagie/text/pdf/TrueTypeFontUnicode.class
+SHA1-Digest: 7DlnmBIQcjtDkWQNqphU4QCJfLw=
+
+Name: com/lowagie/text/xml/TagMap.class
+SHA1-Digest: 9NBzK1mx4DKv0Pm69RYxaRXSetw=
+
+Name: com/lowagie/text/pdf/PdfDocument$RenderingContext.class
+SHA1-Digest: fUaAiH4AIwjpJ7zVdOpUZVmTzsc=
+
+Name: com/lowagie/text/pdf/AcroFields$InstHit.class
+SHA1-Digest: wCFqfPFyBoi7hORPjta9h52Kyl4=
+
+Name: com/lowagie/text/pdf/BidiOrder.class
+SHA1-Digest: 6Fpl84iFo3vE1y8iC17I42cWOn0=
+
+Name: com/lowagie/text/pdf/PdfContents.class
+SHA1-Digest: ujyXJuwzfiTyjeRAe2cTVtHTy2s=
+
+Name: com/lowagie/text/pdf/BarcodeDatamatrix$ReedSolomon.class
+SHA1-Digest: IMBZjIBQmnhTMiROj9qkA3O2bfk=
+
+Name: com/lowagie/text/rtf/list/RtfListTable.class
+SHA1-Digest: ccWTyxT/sp+6q6IbF9F0uSH9ocU=
+
+Name: com/lowagie/text/pdf/PdfSigGenericPKCS$VeriSign.class
+SHA1-Digest: tsXz6957dGiR0CPJPBFPMX2RaOM=
+
+Name: com/lowagie/text/pdf/PdfStamperImp.class
+SHA1-Digest: FiCTuhB5kVSGbjX0vzutsF3a2nU=
+
+Name: com/lowagie/text/pdf/PdfContentParser.class
+SHA1-Digest: BXrMqBnCK+hi1XLkhzDkIjOJbk0=
+
+Name: com/lowagie/text/pdf/PdfLiteral.class
+SHA1-Digest: 4UraIlJHmuiH2UoGHAXBNJzetTA=
+
+Name: com/lowagie/text/pdf/PdfPageEventHelper.class
+SHA1-Digest: KGGB6HgJj86pjhIdT4e88FHEuO0=
+
+Name: com/lowagie/text/pdf/SpotColor.class
+SHA1-Digest: QZosYcbHjfzxVrZvdrhNz6zLzE8=
+
+Name: com/lowagie/text/pdf/PdfGState.class
+SHA1-Digest: 2j8KkgIZ3aedI88zz8/hDeQLlWI=
+
+Name: com/lowagie/text/pdf/XfaForm$Xml2SomTemplate.class
+SHA1-Digest: GeOLCs/DZQc28nhqywGr1fpiWD4=
+
+Name: com/lowagie/text/html/simpleparser/HTMLWorker.class
+SHA1-Digest: cAVyH+UdH/IPbd3ycuu5xWnsyQA=
+
+Name: com/lowagie/text/xml/SAXmyHandler.class
+SHA1-Digest: OanlcJxRO0Y1SWAstqSvSP749xw=
+
+Name: com/lowagie/text/rtf/text/RtfAnnotation.class
+SHA1-Digest: Y6+vrWfqXFgY8c8ajLcc7dTMdhY=
+
+Name: com/lowagie/text/rtf/direct/RtfDirectContent.class
+SHA1-Digest: DsGutcEJ49L3FkYoS4T7lOEnCIM=
+
+Name: com/lowagie/text/pdf/BarcodeEAN.class
+SHA1-Digest: 90xxQAB12qutnamBkNa9IvhFwdc=
+
+Name: com/lowagie/text/pdf/events/IndexEvents$1.class
+SHA1-Digest: c4xkqUgSf/36OFpK3MbIj32+cT0=
+
+Name: com/lowagie/text/pdf/codec/TIFFDirectory.class
+SHA1-Digest: yxEKw7+CNsEJQ0UZApI/nK9kYiQ=
+
+Name: com/lowagie/text/pdf/events/IndexEvents$Entry.class
+SHA1-Digest: kygZ8NqKK1aE/yTm6+yJc5OMIz0=
+
+Name: com/lowagie/text/pdf/PageResources.class
+SHA1-Digest: YjCzJynwe6VCo+iX7OyvbChnh98=
+
+Name: com/lowagie/text/pdf/PdfAppearance.class
+SHA1-Digest: zL7QQ33Dz1F7XDrTUYU6jSy3lkc=
+
+Name: com/lowagie/text/pdf/CFFFont$MarkerItem.class
+SHA1-Digest: s1uSWIb8xsx6c7xtKhnKe4C/KMY=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaFont.class
+SHA1-Digest: htGL/89mKkSFkHkQNO/+XjTO3H0=
+
+Name: com/lowagie/text/pdf/PdfPattern.class
+SHA1-Digest: 5I81m4GfAdoc78/U0Lf7JT1HGmU=
+
+Name: com/lowagie/text/pdf/BarcodeDatamatrix$DmParams.class
+SHA1-Digest: E0DeJ4hL4HNkU8dbaxkIb4EY2yQ=
+
+Name: com/lowagie/text/pdf/PdfChunk.class
+SHA1-Digest: 7K17Y1gDXKkLgtMUkPg2gpdqz6k=
+
+Name: com/lowagie/text/pdf/PdfArray.class
+SHA1-Digest: Xzap5bc+SIXPKzW7GA/Z6qbg3B8=
+
+Name: com/lowagie/text/pdf/codec/Base64$OutputStream.class
+SHA1-Digest: 80JqfeBk73IASf5HYHzO3LT98pI=
+
+Name: com/lowagie/text/pdf/CFFFont$RangeItem.class
+SHA1-Digest: 7VKwNtbtLiwMtFAEryn5k1YIuLM=
+
+Name: com/lowagie/text/ImgTemplate.class
+SHA1-Digest: ztA/d8LDTHf/oOgG4DKKmZmK7SI=
+
+Name: com/lowagie/text/pdf/CMYKColor.class
+SHA1-Digest: J8DQvDJH4tvwAeIydC/tYQl3QEg=
+
+Name: com/lowagie/text/pdf/CFFFont$UInt16Item.class
+SHA1-Digest: 4hdq4qZY6g/7kopQXNcZOalG4Pw=
+
+Name: com/lowagie/text/pdf/MultiColumnText$ColumnDef.class
+SHA1-Digest: YHCkwxLieb5EE6YXwkap9BzsGrw=
+
+Name: com/lowagie/text/pdf/ColorDetails.class
+SHA1-Digest: v06cYMMW7DRVFNNOiLewvDd+YIs=
+
+Name: com/lowagie/text/pdf/PdfFunction.class
+SHA1-Digest: X53gSSPkNYPOl1pmwKADhPIBBtI=
+
+Name: com/lowagie/tools/BuildTutorial.class
+SHA1-Digest: eK4joMD2Je1za7JznK4Pu/BnXIk=
+
+Name: com/lowagie/text/pdf/fonts/Helvetica.afm
+SHA1-Digest: MNLQ9yI+mVSYjaQ0CpQRFz9+6c8=
+
+Name: com/lowagie/text/rtf/field/RtfPageNumber.class
+SHA1-Digest: 8+tL129lrsTok+vVW4da6NUWxus=
+
+Name: com/lowagie/text/pdf/AcroFields$SorterComparator.class
+SHA1-Digest: NaZ6gYGy77mnEoz09WGC3PUPGsU=
+
+Name: com/lowagie/text/factories/GreekAlphabetFactory.class
+SHA1-Digest: s6qw6UrVnqIqmqM29WJK6n1cuxY=
+
+Name: com/lowagie/text/rtf/document/RtfDocument.class
+SHA1-Digest: t1fEQWuqXhZ4VYOD6sdapAYK1QM=
+
+Name: com/lowagie/text/Jpeg2000.class
+SHA1-Digest: lAXgikCgwRDlrYxHRDswziJ2k6c=
+
+Name: com/lowagie/text/pdf/CFFFont$StringItem.class
+SHA1-Digest: N1r37K+YbKCejVnc3Uo3ynjWrI8=
+
+Name: com/lowagie/text/xml/TagMap$AttributeHandler.class
+SHA1-Digest: OKDUhEVKQe63xK8FvPv3vKIbMaY=
+
+Name: com/lowagie/text/pdf/hyphenation/TernaryTree$Iterator.class
+SHA1-Digest: ABTG1s+6UDxzb8U9j8wAg04R40s=
+
+Name: com/lowagie/text/misc_licenses.txt
+SHA1-Digest: FBBie3yocsG7qJMvUVDuxnLUj+E=
+
+Name: com/lowagie/text/rtf/RtfFont.class
+SHA1-Digest: 3Nn7btJyPDQDmiY26oFvGV0xZ5o=
+
+Name: com/lowagie/text/pdf/PdfPKCS7$X509Name.class
+SHA1-Digest: 8hp/9HGqvRdG55obTig4N25//rg=
+
+Name: com/lowagie/text/pdf/hyphenation/TernaryTree$Iterator$Item.class
+SHA1-Digest: NLY68rsXlGDlLpzWzKYJauo5XpY=
+
+Name: com/lowagie/text/pdf/PdfEncodings$SymbolConversion.class
+SHA1-Digest: UwpDUx4LM916Lqnh6X9aKqwGllc=
+
+Name: com/lowagie/text/pdf/PdfName.class
+SHA1-Digest: gRjJwJrz7f6dchm0C6ION/5suDI=
+
+Name: com/lowagie/text/pdf/PdfPublicKeyRecipient.class
+SHA1-Digest: YGk4HGVeBumTkrYjtESTtiKsujc=
+
+Name: com/lowagie/text/pdf/PdfSignatureAppearance$1.class
+SHA1-Digest: rIMk2Fk6Jul9mElCW/cr+H1zhhg=
+
+Name: com/lowagie/text/pdf/BarcodeDatamatrix$Placement.class
+SHA1-Digest: uH+DYF9ZX/VN1ddcsliB1N9y7HI=
+
+Name: com/lowagie/text/pdf/hyphenation/ByteVector.class
+SHA1-Digest: mB/5OM1+qg9VTbPUF2lLzmr/55Q=
+
+Name: com/lowagie/text/rtf/document/output/RtfNilOutputStream.class
+SHA1-Digest: iZFIHRDJLzb70ukVHQ3GK9mw7rw=
+
+Name: com/lowagie/text/pdf/collection/PdfCollectionSort.class
+SHA1-Digest: MhZ1gpb9032t3edYmGuDa5GdABk=
+
+Name: com/lowagie/text/rtf/RtfWriter.class
+SHA1-Digest: KcSUyBUrnStl8OFOQLzQ10yA0KI=
+
+Name: com/lowagie/text/rtf/style/RtfColor.class
+SHA1-Digest: d/Y1RhuKMPgaaTGoWC+V5EVvxeo=
+
+Name: com/lowagie/text/pdf/hyphenation/HyphenationTree.class
+SHA1-Digest: K8OyZV60IwAC4CdNzTtADX+r3vc=
+
+Name: com/lowagie/text/pdf/CFFFont$Item.class
+SHA1-Digest: pcl1vZHzWmsodp2IXZjEgwvydUo=
+
+Name: com/lowagie/text/ZapfDingbatsNumberList.class
+SHA1-Digest: LLbR0tcUXaRRg1uF+lYfBCvnBgM=
+
+Name: com/lowagie/text/pdf/PdfBoolean.class
+SHA1-Digest: uZB/GznnplHUM9imqbj/fKDw8Bs=
+
+Name: com/lowagie/text/pdf/FdfWriter.class
+SHA1-Digest: Yz9axz+0Qg/6l5vJNLvvZYbpjdw=
+
+Name: com/lowagie/text/pdf/interfaces/PdfViewerPreferences.class
+SHA1-Digest: 2ema8nwqmKJRpx8dFPLy/WJa5vY=
+
+Name: com/lowagie/text/pdf/crypto/AESCipher.class
+SHA1-Digest: tEqlQ44cuBhWmO5dYwjCTGmvnQ0=
+
+Name: com/lowagie/text/pdf/internal/PdfXConformanceImp.class
+SHA1-Digest: fsexZL21k39dsYhQZvnlaBOeyvc=
+
+Name: com/lowagie/text/pdf/ExtraEncoding.class
+SHA1-Digest: fFYQgNY0ejKJRyrBcZTJlFPh05A=
+
+Name: com/lowagie/text/pdf/XfaForm$Stack2.class
+SHA1-Digest: TrEag7T5NHVKpyW9k6bYwUD1OMI=
+
+Name: com/lowagie/text/pdf/SequenceList.class
+SHA1-Digest: JYAkZOn6uxUjcdZru7JOu6X0uAE=
+
+Name: com/lowagie/text/pdf/Barcode128.class
+SHA1-Digest: H79CyfR/9aKmX9QteMJpAxAsUeA=
+
+Name: com/lowagie/text/pdf/PdfDate.class
+SHA1-Digest: C5oMN/xQZxFnHscYmM/mSyuKkks=
+
+Name: com/lowagie/text/pdf/HyphenationEvent.class
+SHA1-Digest: 0pmW5uexv4s49i+Tx3DZlTgHWjc=
+
+Name: com/lowagie/text/ImgRaw.class
+SHA1-Digest: 9shW/Upp2fYTp5M3BizdbSC0wok=
+
+Name: com/lowagie/text/pdf/fonts/Times-Bold.afm
+SHA1-Digest: jjTTlev9WReMzIUJyKwSwcXresY=
+
+Name: com/lowagie/text/pdf/DocumentFont.class
+SHA1-Digest: AQ5eZr0OHSxYHIGoUCIMvVnM/Ww=
+
+Name: com/lowagie/text/pdf/codec/TIFFField.class
+SHA1-Digest: ycsyh5u2d0oD5/a23YjrUmG8Z68=
+
+Name: com/lowagie/text/pdf/PdfAnnotation$PdfImportedLink.class
+SHA1-Digest: 5NRl2GoQQyxVO5jffe37WC9LLn8=
+
+Name: com/lowagie/text/rtf/text/RtfNewPage.class
+SHA1-Digest: ojLq4k3xacS2ZEF7zmLJErjkmUI=
+
+Name: com/lowagie/text/pdf/hyphenation/Hyphen.class
+SHA1-Digest: x0oEvrFpY20tjmH1dhxZqPMhMWo=
+
+Name: com/lowagie/text/pdf/PdfReader.class
+SHA1-Digest: mXFVbcpnPWm437gjDt21BiI0kuk=
+
+Name: com/lowagie/text/pdf/HyphenationAuto.class
+SHA1-Digest: ehSh2MD5psvBpKMV8UUSJ+ajlBs=
+
+Name: com/lowagie/text/pdf/StandardDecryption.class
+SHA1-Digest: WWQkdrexPavZv4PqVEmOU4wxrGo=
+
+Name: com/lowagie/text/pdf/AcroFields$1.class
+SHA1-Digest: GWmplgJBteVI0/417ZflHABgN+w=
+
+Name: com/lowagie/text/pdf/PdfDocument$PdfInfo.class
+SHA1-Digest: l8eg1kQtOnmYKLnDSXKa1D8493s=
+
+Name: com/lowagie/text/rtf/direct/RtfImportMappings.class
+SHA1-Digest: vF4tsfEL9R4g0tBbUNNlYwAUCd0=
+
+Name: com/lowagie/text/xml/simpleparser/SimpleXMLDocHandler.class
+SHA1-Digest: 1Em2yBVyzks4bwKpYB3dxnndxVU=
+
+Name: com/lowagie/text/pdf/GlyphList.class
+SHA1-Digest: 2aM8PqMoBVkY1N0NUAPu+NjWzRY=
+
+Name: com/lowagie/text/BadElementException.class
+SHA1-Digest: JtwzI8DRsCrY2BNgYSAoFGmo6n8=
+
+Name: com/lowagie/text/pdf/collection/PdfTargetDictionary.class
+SHA1-Digest: /qOeN74nzrOzgytbACYwljxlJII=
+
+Name: com/lowagie/text/pdf/PdfAction.class
+SHA1-Digest: cI99fhk1hfg8l3OnNmSF8XZ4fWI=
+
+Name: com/lowagie/text/pdf/PdfPublicKeySecurityHandler.class
+SHA1-Digest: EmICnI4ZYz9ccIneT83c5RoBFNA=
+
+Name: com/lowagie/text/pdf/PdfNameTree.class
+SHA1-Digest: I1A/0h9m91C0v0BaqNUjE8pJSc0=
+
+Name: com/lowagie/text/pdf/BarcodePDF417.class
+SHA1-Digest: okTgb5ykWrY/44uc0dcuIzmHosE=
+
+Name: com/lowagie/text/html/HtmlTagMap.class
+SHA1-Digest: hI5FCtavrN4fr6/YCuaA6fjsiRM=
+
+Name: com/lowagie/text/pdf/PRTokeniser.class
+SHA1-Digest: +hFbZjkkCJU6T2/ZVy2cMLtym7c=
+
+Name: com/lowagie/text/rtf/RtfHeaderFooters.class
+SHA1-Digest: uhK1cM5hVp8Omsw1rWdNSwAra3c=
+
+Name: com/lowagie/text/pdf/MappedRandomAccessFile.class
+SHA1-Digest: pqhjHbGo7eDUXpPCPZdsS7onX3A=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaBrush.class
+SHA1-Digest: 2JwGi2IXRzwuqC4b1NKlm3lNQA4=
+
+Name: com/lowagie/text/rtf/RtfHeaderFooter.class
+SHA1-Digest: QTe9Rym3YHGU+LPw10mHpSPOLbA=
+
+Name: com/lowagie/text/html/Markup.class
+SHA1-Digest: CnSrwi4aDj914Mm+dFTxbICmH9k=
+
+Name: com/lowagie/text/pdf/PdfFormXObject.class
+SHA1-Digest: Jn7uY+amTAjpTXNk9xGWhuHm3xc=
+
+Name: com/lowagie/text/pdf/PdfEncodings.class
+SHA1-Digest: jcG7BAZdlGydjhHBxUzuwFHGyp4=
+
+Name: com/lowagie/text/pdf/PdfPageLabels.class
+SHA1-Digest: VdYxhcisTeJtUvZ8G/yvp4vZS9k=
+
+Name: com/lowagie/text/rtf/style/RtfParagraphStyle.class
+SHA1-Digest: WeKtXmNTNMkgJr5rBdkqyTb5l0o=
+
+Name: com/lowagie/text/pdf/XfaForm$Xml2SomDatasets.class
+SHA1-Digest: wm8TZ0+pZ4Ad27bJUQkEoqtoyLU=
+
+Name: com/lowagie/tools/ToolboxAvailable.class
+SHA1-Digest: JroCXqhmFMgSAQ0b4lgxURVkIJY=
+
+Name: com/lowagie/text/html/simpleparser/FactoryProperties.class
+SHA1-Digest: /59nldKdgeMlJcGM/haZ2iL5W40=
+
+Name: com/lowagie/text/pdf/GrayColor.class
+SHA1-Digest: OELO3Um9IUGRRggbY/eFKK2HvtQ=
+
+Name: com/lowagie/text/pdf/interfaces/PdfVersion.class
+SHA1-Digest: ep6Pp84h1cJdVyf24y3uWz+kWfI=
+
+Name: com/lowagie/text/pdf/PdfReader$1.class
+SHA1-Digest: mRiZvmY+DCuL/b73gIuhqpM0cL0=
+
+Name: com/lowagie/text/pdf/TrueTypeFontSubSet.class
+SHA1-Digest: 1YMmWNWpAwKC1fU/NlZu+wAU4FM=
+
+Name: com/lowagie/text/Annotation.class
+SHA1-Digest: odJObBo1HFJmbr0X70r2RUmSWSY=
+
+Name: com/lowagie/text/pdf/PdfFont.class
+SHA1-Digest: 92EW5hN+0NLDlJVOeylwPfk+8+4=
+
+Name: com/lowagie/text/ListItem.class
+SHA1-Digest: D47o27w/OuYDeBe55ggQ4MBIaG4=
+
+Name: com/lowagie/text/pdf/events/PdfPTableEventForwarder.class
+SHA1-Digest: Z8mvKE1hXk0FLyBCNkhEQJyxzoY=
+
+Name: com/lowagie/text/rtf/RtfTable.class
+SHA1-Digest: AACxifaLiO8fPASlfQi9m76dIic=
+
+Name: com/lowagie/text/Cell.class
+SHA1-Digest: N1htp5Cf1myo8k45oh5OpmDM4rk=
+
+Name: com/lowagie/text/rtf/style/RtfFontList.class
+SHA1-Digest: 6Cd91hvEVZknjSgqgdV1ZYFED4M=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaObject.class
+SHA1-Digest: AN9gd5h505qPtNtw6A5Q4kYp5rk=
+
+Name: com/lowagie/text/SplitCharacter.class
+SHA1-Digest: aiykiy4v7IPh5unYLfJhfgZCcrU=
+
+Name: com/lowagie/text/rtf/document/output/RtfEfficientMemoryCache.cla
+ ss
+SHA1-Digest: VLGzTAyu7v6ptEYaxpklR2u1p5I=
+
+Name: com/lowagie/text/pdf/codec/Base64$InputStream.class
+SHA1-Digest: kb6WMb1NuD4MIZJGVFrccUbBLgk=
+
+Name: com/lowagie/text/pdf/fonts/FontsResourceAnchor.class
+SHA1-Digest: eRf90M9xeu7XEGsn9gURnYJxg1k=
+
+Name: com/lowagie/text/pdf/RadioCheckField.class
+SHA1-Digest: zakKRTGnhm3JRpY15qkQaAHLgZA=
+
+Name: com/lowagie/text/pdf/PdfPCellEvent.class
+SHA1-Digest: F2tsp6r8y2DuOEZyXaIPt7iiEak=
+
+Name: com/lowagie/text/pdf/events/PdfPageEventForwarder.class
+SHA1-Digest: c1G3KjtWc6eLkDWXrQyS7KmPRhk=
+
+Name: com/lowagie/text/rtf/RtfCell.class
+SHA1-Digest: qKNsxzQc1VU79dd8tgB3154Gv6w=
+
+Name: com/lowagie/text/pdf/PdfEncryptor.class
+SHA1-Digest: mAZV/IvGLbHJFh7LOop4qC9XnrA=
+
+Name: com/lowagie/text/pdf/PdfStructureElement.class
+SHA1-Digest: MDBg4wxCQQVfInqXVe2g10R0rs4=
+
+Name: com/lowagie/text/pdf/internal/PolylineShapeIterator.class
+SHA1-Digest: bdP4i+UhDJ/8YFQB0zFW8OS1/gk=
+
+Name: com/lowagie/text/pdf/PdfTemplate.class
+SHA1-Digest: Qz/OCRuNnHL8Dp8kgVsKPuGFJas=
+
+Name: com/lowagie/text/pdf/PdfSigGenericPKCS$PPKMS.class
+SHA1-Digest: IGCmzUm73ZP3BwFaNy6OGWeqnEg=
+
+Name: com/lowagie/text/pdf/PdfWriter$PdfBody.class
+SHA1-Digest: BIGMJS/VBGD3vJvxEiK8+v7Pt5A=
+
+Name: com/lowagie/text/List.class
+SHA1-Digest: 1gOC/wlLn3sw0C/OaMSbIJLgLpk=
+
+Name: com/lowagie/text/rtf/direct/RtfParser.class
+SHA1-Digest: XTszr1PADjDr3rXV2QJDIACERbo=
+
+Name: com/lowagie/text/pdf/PdfPKCS7.class
+SHA1-Digest: nzCkb3tgUggUpNqhxjcm/gS5Wz4=
+
+Name: com/lowagie/text/pdf/PdfDocument$PdfCatalog.class
+SHA1-Digest: uAh0iNMBWUxgj1+H9c/eRrELor8=
+
+Name: com/lowagie/text/pdf/PdfTransition.class
+SHA1-Digest: Nki9a1CFma9LmVwwL+pVMpd9aSg=
+
+Name: com/lowagie/text/pdf/OutputStreamEncryption.class
+SHA1-Digest: sz4qZuLjYktsPjrNoPWAqAw2lN4=
+
+Name: com/lowagie/text/pdf/PdfICCBased.class
+SHA1-Digest: qvhJrhxFzlDSpA0yxsnNxP1gNaA=
+
+Name: com/lowagie/text/pdf/PdfStructureTreeRoot.class
+SHA1-Digest: lk0Ly3Dte7FH4hp8XjVQx2jKYn4=
+
+Name: com/lowagie/text/rtf/document/RtfDocumentSettings.class
+SHA1-Digest: 8Of7RYiK439XcX5zKXFJdtdIBtA=
+
+Name: com/lowagie/text/DocumentException.class
+SHA1-Digest: 5onLZEcV673raqjSdd0QyE+N1+8=
+
+Name: com/lowagie/text/rtf/text/RtfTab.class
+SHA1-Digest: xYzWK3C2a86Mq97M6dyB2Ci6qE4=
+
+Name: com/lowagie/text/pdf/fonts/cmap_info.txt
+SHA1-Digest: mafVPiv95dKr/fKyVNL+jq/I+LY=
+
+Name: com/lowagie/text/pdf/XfaForm.class
+SHA1-Digest: PhpsyO3W3OmKDbdp4m8HrONrNRY=
+
+Name: com/lowagie/text/pdf/StampContent.class
+SHA1-Digest: SLwTNoJb0VEVnd2/JhCUkxvBLrE=
+
+Name: com/lowagie/text/rtf/text/RtfPhrase.class
+SHA1-Digest: MosGjJZnDbYsY+dd/cJGdXGAuvc=
+
+Name: com/lowagie/text/pdf/SimpleBookmark.class
+SHA1-Digest: 9WLzbv/CCBMmgY5JCWRp2MPIblE=
+
+Name: com/lowagie/text/pdf/fonts/Times-Roman.afm
+SHA1-Digest: eMFR3R8sZ+V6NomybKSl4qGXUqo=
+
+Name: com/lowagie/text/pdf/BarcodeInter25.class
+SHA1-Digest: /IUHyklZBXPqzy768An5heWnikc=
+
+Name: com/lowagie/text/pdf/interfaces/PdfXConformance.class
+SHA1-Digest: L/Xa//36KL8b1lz/tU07n6x2X4s=
+
+Name: com/lowagie/text/rtf/document/RtfCodePage.class
+SHA1-Digest: xVxWLCeGo4qRcJ+w3/Pvq6U3hG0=
+
+Name: com/lowagie/text/pdf/PdfSigGenericPKCS.class
+SHA1-Digest: d6xwiOoInHzSyE0GynYHAhT4If4=
+
+Name: com/lowagie/text/pdf/PdfPrinterGraphics2D.class
+SHA1-Digest: MyFxce06eAXgoRuiniDFLA7Dpxw=
+
+Name: com/lowagie/text/Rectangle.class
+SHA1-Digest: 50N9BXOg9WZYJhKc2nTchmVwxRU=
+
+Name: com/lowagie/text/pdf/PdfIndirectObject.class
+SHA1-Digest: m0kcOvEU4KydSOh261FJ1MBuo88=
+
+Name: com/lowagie/text/rtf/document/RtfInfoElement.class
+SHA1-Digest: 25XeJrnwGDo1YO5OOd6fQiC7y+E=
+
+Name: com/lowagie/text/rtf/headerfooter/RtfHeaderFooterGroup.class
+SHA1-Digest: nOjnMN0ttkcJDEsj8VSEQdgOjAU=
+
+Name: com/lowagie/text/pdf/PdfStream.class
+SHA1-Digest: RhFG8g/IFehEh63ShAkQTXMLkMU=
+
+Name: com/lowagie/text/rtf/RtfTOC.class
+SHA1-Digest: eHl3FgRN/7DBPxMxyZE9VEcsFlM=
+
+Name: com/lowagie/tools/split_pdf.class
+SHA1-Digest: hfF1S0LRQDZhtLR34j2hH5+kjA0=
+
+Name: com/lowagie/text/pdf/PdfCopyFieldsImp.class
+SHA1-Digest: QfXTuwcsD+STwHHbFzZsjXSR/N8=
+
+Name: com/lowagie/text/pdf/PdfLayer.class
+SHA1-Digest: XNzffUBbwg7HisOOu9uoGt9i2ww=
+
+Name: com/lowagie/text/xml/SAXiTextHandler.class
+SHA1-Digest: NO2Q1/Dxxy6YHZeAQe2wMo+s1qc=
+
+Name: com/lowagie/text/pdf/BidiLine.class
+SHA1-Digest: So9zjQhUGH9hsm+f+aY0Ew/YXQ8=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaDo.class
+SHA1-Digest: I1grQDHaKOy2wUNWp/4tJnfOwTE=
+
+Name: com/lowagie/text/pdf/codec/PngImage.class
+SHA1-Digest: 8s6FblxfYjEgHTOZp7zTpf/zAdo=
+
+Name: com/lowagie/text/pdf/Type1Font.class
+SHA1-Digest: JQxxfQdSNlmsSu7AdmMwIzIZtIk=
+
+Name: com/lowagie/text/rtf/text/RtfParagraph.class
+SHA1-Digest: ZO5/fOoeF1DfYFLQvGMpTKk+rtQ=
+
+Name: com/lowagie/text/pdf/fonts/Courier.afm
+SHA1-Digest: rXUeH9CNJsc154ZtfXGVSgT2EHQ=
+
+Name: com/lowagie/text/html/HtmlPeer.class
+SHA1-Digest: BZqjNsNOkK2qP+uxsiPO82ymYWg=
+
+Name: com/lowagie/text/pdf/PdfWriter$PdfBody$PdfCrossReference.class
+SHA1-Digest: Bb40MBQt849Gzl73NoHTjle+DEM=
+
+Name: com/lowagie/text/html/WebColors.class
+SHA1-Digest: bpmiMtHCdsCqsFw2w6RZNBlprW8=
+
+Name: com/lowagie/text/rtf/direct/RtfColorTableParser.class
+SHA1-Digest: MWkfYP0uNfBRTeTamqAjzNzZFZQ=
+
+Name: com/lowagie/text/pdf/PRIndirectReference.class
+SHA1-Digest: OqMt2FyRn5cmlSmy7vDpTcbA+iE=
+
+Name: com/lowagie/text/pdf/PdfContentByte.class
+SHA1-Digest: IG2OG7uZJU+gPbjFeUxo5b78aY8=
+
+Name: com/lowagie/text/xml/xmp/DublinCoreSchema.class
+SHA1-Digest: dlc035DwY+MGDFwXhcQNRrkG8Js=
+
+Name: com/lowagie/text/pdf/VerticalText.class
+SHA1-Digest: 1eX6E9E3z3uoF5PSJUf4Xfnp1U4=
+
+Name: com/lowagie/text/factories/RomanNumberFactory.class
+SHA1-Digest: hxLRz7ooSdDKLpjbSQm86aBVr5M=
+
+Name: com/lowagie/text/rtf/RtfBasicElement.class
+SHA1-Digest: KV7QFu6AeIkiVvcMMj5PtBBsL/k=
+
+Name: com/lowagie/text/pdf/CFFFont$UInt8Item.class
+SHA1-Digest: 8KoKxNZX3PT6N0eissqO1gDDMIE=
+
+Name: com/lowagie/text/pdf/PdfLayerMembership.class
+SHA1-Digest: xnVqsA/4dex03J05eUnBv6jpVIw=
+
+Name: com/lowagie/text/pdf/events/PdfPCellEventForwarder.class
+SHA1-Digest: nXEEyJrSq0ssxSNPEs6k9EMRbLU=
+
+Name: com/lowagie/text/xml/XmlDomWriter.class
+SHA1-Digest: fwZ6bBQ72NSp8qatoTd4rCLn1FQ=
+
+Name: com/lowagie/text/Meta.class
+SHA1-Digest: xTikDMrHMkCZurkZnbK/J8YqP6c=
+
+Name: com/lowagie/text/rtf/document/RtfInfoGroup.class
+SHA1-Digest: flXzAh5dEj2pLGntZZHRn+6MPaE=
+
+Name: com/lowagie/text/pdf/PdfColor.class
+SHA1-Digest: S2HABQT4W4143VjQPfqPOB/1cmI=
+
+Name: com/lowagie/text/pdf/FontSelector.class
+SHA1-Digest: hWeLf6vbgt0W7MPqW9xJR3AQcMI=
+
+Name: com/lowagie/tools/concat_pdf.class
+SHA1-Digest: kCz1EgZuNa4eySAdtTqP6BvwfFs=
+
+Name: com/lowagie/text/pdf/PdfTextArray.class
+SHA1-Digest: HBGc1aM9bs4UBBupywMMT8LEOMI=
+
+Name: com/lowagie/text/pdf/hyphenation/TernaryTree.class
+SHA1-Digest: 8qRhPBpKDJYysSbJWSsfTjbn8bk=
+
+Name: com/lowagie/text/pdf/PdfGraphics2D$HyperLinkKey.class
+SHA1-Digest: FxENburRs+UOMbwPdTtK1AxtCwk=
+
+Name: com/lowagie/text/pdf/fonts/Helvetica-Bold.afm
+SHA1-Digest: WmMVfVGU9kKLI9MaAAAxIWYx+XY=
+
+Name: com/lowagie/text/pdf/TextField.class
+SHA1-Digest: iLzmfu1JWGI+Orc92PNs/64Q6yA=
+
+Name: com/lowagie/text/xml/simpleparser/EntitiesToSymbol.class
+SHA1-Digest: u9RgPJP+ZOOYcTPYV5cQeQAyalI=
+
+Name: com/lowagie/text/pdf/codec/CCITTG4Encoder.class
+SHA1-Digest: auCMcKmJbZQI3Xd9842CEWA9sdE=
+
+Name: com/lowagie/text/pdf/CFFFont$UInt24Item.class
+SHA1-Digest: CJju8F4OGckUYT14Tz+fy1xBUVQ=
+
+Name: com/lowagie/text/factories/ElementFactory.class
+SHA1-Digest: YkHV70/tVeQ7gLHc7Hkj9zflizY=
+
+Name: com/lowagie/text/xml/XmlPeer.class
+SHA1-Digest: kdBHcpWIy70Sp4LNbrYEN+f6E7o=
+
+Name: com/lowagie/text/pdf/PdfSignatureAppearance$SignatureEvent.class
+SHA1-Digest: U4ATdqxBBNXR39/cX5F1GKP+Aeg=
+
+Name: com/lowagie/text/pdf/ColumnText.class
+SHA1-Digest: N139Jg1wpFv8VMDE0dlhgsgtqCE=
+
+Name: com/lowagie/text/Paragraph.class
+SHA1-Digest: AGztO7SxnLyGi38sBNlLx8bIAGQ=
+
+Name: com/lowagie/text/pdf/ArabicLigaturizer.class
+SHA1-Digest: Iy5cV5JxX5WVB3IekPe0ZckGI5c=
+
+Name: com/lowagie/text/Chunk.class
+SHA1-Digest: nz6MljfjCd6VxxBCep7rp2qPfb8=
+
+Name: com/lowagie/text/pdf/PdfCopy$IndirectReferences.class
+SHA1-Digest: O2AG+9UunWI2RS5Hy6BxBlUsD5c=
+
+Name: com/lowagie/text/pdf/PdfCell.class
+SHA1-Digest: BIpIkQ7JAuHntjBz79/q2/gyBLc=
+
+Name: com/lowagie/text/pdf/PdfLister.class
+SHA1-Digest: Y7/u9YkbRFWC1d8bY6R6xxQcX8Q=
+
+Name: com/lowagie/text/html/simpleparser/ImageProvider.class
+SHA1-Digest: DVKsyWFBjB0l89NeJtALLyPV9J0=
+
+Name: com/lowagie/text/pdf/interfaces/PdfRunDirection.class
+SHA1-Digest: gvY1Oc9YceU3+8SxX46DaGb6jwA=
+
+Name: com/lowagie/text/pdf/PdfPatternPainter.class
+SHA1-Digest: 0ZmVyUXoDS8rMDfpyk7v9CYiRk0=
+
+Name: com/lowagie/text/pdf/PdfNull.class
+SHA1-Digest: SsS28XKwUDI6h4QcMSmYbwutwlQ=
+
+Name: com/lowagie/text/rtf/document/RtfGenerator.class
+SHA1-Digest: DdV7jpnP+og6knAO73EGV3Rb/3M=
+
+Name: com/lowagie/text/LargeElement.class
+SHA1-Digest: i8YHlybMbFfcK1+Z3W7GusyaAnw=
+
+Name: com/lowagie/text/xml/xmp/XmpArray.class
+SHA1-Digest: GZBHVWcG41+eEMyncPr3sBtcack=
+
+Name: com/lowagie/text/pdf/interfaces/PdfDocumentActions.class
+SHA1-Digest: DeWFXAzEtyd9e6ViGevQBkzeCkc=
+
+Name: com/lowagie/text/rtf/graphic/RtfShape.class
+SHA1-Digest: m/M8uYJ+baIED7+RdOGNWdN55Ls=
+
+Name: com/lowagie/text/pdf/PdfPageLabels$PdfPageLabelFormat.class
+SHA1-Digest: 9JV+/gb4EWdm8F3iMqbTnl/8tWI=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaState.class
+SHA1-Digest: EfSTjftDj0gg6IjUBGyA5WmDQqE=
+
+Name: com/lowagie/text/rtf/field/RtfTOCEntry.class
+SHA1-Digest: SShMl7m8EFWGWtmuD0XSAHegLmY=
+
+Name: com/lowagie/text/pdf/collection/PdfCollection.class
+SHA1-Digest: 2nzxdZ/lighCByBSROLINKav+KU=
+
+Name: com/lowagie/text/pdf/interfaces/PdfEncryptionSettings.class
+SHA1-Digest: OWRigIPZUBEPpWLIE31I9+qzXTg=
+
+Name: com/lowagie/text/rtf/table/RtfTable.class
+SHA1-Digest: C+B2D3RpWpPOQ7IA61kARsNluW8=
+
+Name: com/lowagie/text/pdf/OutputStreamCounter.class
+SHA1-Digest: l1ieukNBXQXVCVM/sHm6rBYS8mY=
+
+Name: com/lowagie/text/pdf/collection/PdfCollectionItem.class
+SHA1-Digest: IROa/t9yGOTl4DkhUI4FfU+sB3c=
+
+Name: com/lowagie/text/pdf/codec/wmf/MetaPen.class
+SHA1-Digest: BZ/hysK0sHuq5ZgrIAIYucAgFwA=
+
+Name: com/lowagie/text/pdf/PdfEncodings$Cp437Conversion.class
+SHA1-Digest: buw1mF9viOSVjnjQBEXJihMUIb8=
+
+Name: com/lowagie/text/pdf/hyphenation/Hyphenation.class
+SHA1-Digest: X65GKWsivaX3fVXcdTcrWiXfYxU=
+
+Name: com/lowagie/text/rtf/RtfAddableElement.class
+SHA1-Digest: yANq5Gvo6r9M8Rv2PL6sUxuJ75A=
+
+Name: com/lowagie/text/rtf/direct/RtfFontTableParser.class
+SHA1-Digest: nwXLV/61GjXqfwGGTZqxwNmlIEs=
+
+Name: com/lowagie/text/rtf/table/RtfCell.class
+SHA1-Digest: w9Xc1577IS9vsU0sxgBzfhdqVeo=
+
+Name: com/lowagie/text/pdf/hyphenation/CharVector.class
+SHA1-Digest: vBdfaEQlsBl2Dv7p7aEBcYhTKfw=
+
+Name: com/lowagie/text/xml/xmp/XmpBasicSchema.class
+SHA1-Digest: /vy7uZTre8pHyWfUCh+8ANk2TLc=
+
+Name: com/lowagie/text/pdf/PdfSmartCopy$ByteStore.class
+SHA1-Digest: n1aUvlHTLLDQPQapLHM4K1KpM+s=
+
+Name: com/lowagie/text/pdf/CFFFont$DictOffsetItem.class
+SHA1-Digest: wWKsTK8joxJ6LOS76TyZPsWKnHs=
+
+Name: com/lowagie/text/pdf/PdfPageEvent.class
+SHA1-Digest: /93k0wUapbUnPWlMbiq7Ure0Gkw=
+
+Name: com/lowagie/text/rtf/document/RtfDocumentHeader.class
+SHA1-Digest: 4VlHbRBozMLyz4qrPTuRKKaiVOw=
+
+Name: com/lowagie/text/Image.class
+SHA1-Digest: 5d9xDb3WKClG73iTKjnsa3Qn1EU=
+
+Name: com/lowagie/text/GreekList.class
+SHA1-Digest: 5M+L4Pb8JaSAz5C3Qq51Ko1unnY=
+

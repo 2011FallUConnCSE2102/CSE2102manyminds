@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dataset PUBLIC "manyminds-DTD" "manyminds.dtd" >
+<dataset>
+
+<global type="DOCUMENT">
+<index><![CDATA[Researcher Information IN *]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Project Outline IN *]]></index>
+<value><![CDATA[0]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Question IN Question]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Hypothesis IN Hypothesize]]></index>
+<value><![CDATA[3]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Hypothesis Brainstorm IN Hypothesize]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Investigation Detail IN Investigate]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Analysis IN Analyze]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Model IN Model]]></index>
+<value><![CDATA[1]]></value>
+</global>
+
+<global type="DOCUMENT">
+<index><![CDATA[Evaluation IN Evaluate]]></index>
+<value><![CDATA[1]]></value>
+</global>
+</dataset>

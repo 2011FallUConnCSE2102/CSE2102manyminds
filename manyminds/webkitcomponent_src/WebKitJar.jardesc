@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+    <jar path="/Users/eric/Desktop/MM_webkit.jar"/>
+    <options overwrite="true" compress="true" exportErrors="true" exportWarnings="true" saveDescription="true" descriptionLocation="/MM_Webkit/WebKitJar.jardesc" useSourceFolders="false" buildIfNeeded="true"/>
+    <manifest manifestVersion="1.0" usesManifest="true" reuseManifest="false" saveManifest="false" generateManifest="true" manifestLocation="">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true">
+        <file path="/MM_Webkit/manyminds/util/browser/rightArrow.gif"/>
+        <javaElement handleIdentifier="=MM_Webkit/&lt;manyminds.util.browser{WebKitComponent.java"/>
+        <file path="/MM_Webkit/manyminds/util/browser/leftArrow.gif"/>
+        <javaElement handleIdentifier="=MM_Webkit/&lt;manyminds"/>
+        <javaElement handleIdentifier="=MM_Webkit/&lt;manyminds.util"/>
+        <javaElement handleIdentifier="=MM_Webkit/&lt;manyminds.util.browser{WebViewController.java"/>
+        <file path="/MM_Webkit/manyminds/util/browser/Island.gif"/>
+    </selectedElements>
+</jardesc>
